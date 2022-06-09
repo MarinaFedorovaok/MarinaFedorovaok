@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarinaFedorovaok
-- 👀 I’m interested in anatitics and programming 
+- 👀 I’m interested in analytics and programming 
 - 🌱 I’m currently learning Python
 
 <!---
